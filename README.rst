@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+MBI Snark Discord Guide
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
+This template will be used to create a Read the Docs wiki for the MBIS Discord Server.
 
 https://docs.readthedocs.io/en/stable/tutorial/
